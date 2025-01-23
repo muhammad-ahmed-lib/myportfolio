@@ -5,47 +5,47 @@ My expertise lies in combining clean, modern design with cutting-edge technology
 
 ## 🔧 Skills & Expertise
 
-## 🛠 Modern Android Development
+### 🛠 Modern Android Development
 
 Kotlin & Jetpack Compose: Crafting sleek, modern apps with clean, efficient code and beautiful, responsive user interfaces.
 
-## 🎨 UI Design & Development
+### 🎨 UI Design & Development
 
 XML, ViewBinding, DataBinding: Building intuitive and adaptable layouts that enhance user interaction across various devices.
 
-## 📈 Scalable Architecture
+### 📈 Scalable Architecture
 
 Clean Architecture & MVVM: Structuring apps for scalability and maintainability, ensuring long-term success and ease of testing.
 
-## 🌐 Backend Integration
+### 🌐 Backend Integration
 
 Retrofit & OkHttp: Seamlessly integrating REST APIs to manage data and interactions between the app and server.
 
-## 🔍 Firebase Integration
+### 🔍 Firebase Integration
 
 Firebase: Utilizing real-time databases, authentication, and analytics to enhance app functionality and user engagement.
 
-## 💵 Monetization
+### 💵 Monetization
 
 Google AdMob: Integrating ads effectively to drive revenue without compromising the user experience.
 
-## 🔄 Background Processing
+### 🔄 Background Processing
 
 WorkManager: Efficiently handling background tasks to maintain app performance and reliability.
 
-## 🔗 Dependency Injection
+### 🔗 Dependency Injection
 
 Hilt & Koin: Using DI frameworks to streamline app architecture, improve modularity, and simplify testing.
 
-## 💳 In-App Purchases and Subscription
+### 💳 In-App Purchases and Subscription
 
 Play Billing Library: Implementing smooth and secure in-app purchases and subscriptions.
 
-## 📚 Custom Libraries
+### 📚 Custom Libraries
 
 Custom Library Development: Creating tailored libraries for specific needs, such as automatic sliding for ViewPager2 and enhanced functionality for AdMob and billing processes.
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Languages: Kotlin, Java
 
