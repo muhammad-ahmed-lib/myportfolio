@@ -81,6 +81,58 @@ Let’s build something amazing together!
 
 # 📂 My Projects
 
+## Phonedipity
+### 💫 Serendipity, at your Fingertips. Meet, Chat, and Connect in a Magical Way!
+
+Welcome to Phonedipity, the revolutionary social and dating app designed to spark meaningful connections, whether they are around the corner or across the globe. Break the ice, find your tribe, or discover romance—all through an intuitive, feature-rich platform that puts the thrill of chance encounters and genuine discovery in your hands.
+
+Here's how Phonedipity redefines social connection:
+
+✨ Key Features
+### 🗺️ Live Nearby Map (Powered by Mapbox)
+See the world of Phonedipity come alive! Our interactive map, powered by MapBox, shows you users in real-time. Wonder "Who is nearby?" or "What users are in that part of the city?" Just zoom in on the map and discover! Perfect for local connections and global exploration.
+
+### 💬 Smart Chat & Connect
+Dip & Undip: Found someone interesting? Send a 'Dip' request to show your interest. If the feeling is mutual, it's a match, and you can start chatting! Changed your mind? 'Undip' to move on—it's all about respectful, mutual connection.
+
+Instant Messaging: Enjoy seamless, real-time texting, photo sharing, and more once you're connected.
+
+### 🌍 Worldwide Discovery
+Don't limit yourself by location. Switch your discovery mode from "Nearby" to "Worldwide" and browse through profiles from different countries and cultures. Make friends from every corner of the planet!
+
+### 📸 Rich Media Sharing
+Share your life through photos and videos directly in chat. Found a cool spot? Share your live location instantly to plan a meetup. Express yourself beyond just words.
+
+### 🔍 Advanced Interest Filters
+Find your perfect match, not by chance, but by choice. Filter people based on:
+
+Interests & Hobbies (e.g., hiking, music, travel)
+
+Relationship Goals (Find Romance, Make New Friends, Just Browsing)
+
+Age, Location, and More
+
+Tailor your discovery feed to show you exactly the kind of people you want to meet.
+
+### ❤️ Find Your Vibe
+Create a detailed profile that highlights your personality. Specify what you're looking for:
+
+Find Romance: For those seeking love and meaningful relationships.
+
+Make Friends: For anyone looking to expand their social circle.
+
+Just Browsing: For the curious, open to whatever the app brings their way.
+
+### ⚡ Cross-Platform Excellence
+Built with Flutter for a seamless, consistent experience across both Android and iOS devices. Enjoy native-like performance with beautiful, responsive design on any device.
+
+### 🔒 Privacy First
+Your safety and privacy are our priority. Robust security measures and privacy controls ensure you have a safe and comfortable experience.
+
+![Uploading dc5539e8-b082-4b6a-8ebe-19e485fec11c.jpg…]()
+![3b23547c-f1ed-4cac-b827-3a3c32134a33](https://github.com/user-attachments/assets/b1eee156-a189-40b2-af38-3d71e6b02e5b)
+
+
 ## 4G: Network Master
 ### ⚡ Your Ultimate Mobile Data Companion. Test, Analyze, and Master Your Connection!
 
