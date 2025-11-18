@@ -112,10 +112,6 @@ Personalize how your location data appears! Choose from various stylish template
 Built with Jetpack Compose for buttery-smooth performance and an intuitive Material Design interface that feels native to your Android device.
 
 
-![e6f3d7ea-7a05-40eb-9bb6-91719a168794](https://github.com/user-attachments/assets/3e308afb-05ce-4275-a0d9-ec9fc73197ab)
-![44794be6-039e-4c4e-864a-95b41e7cbb91](https://github.com/user-attachments/assets/9c1b9a48-3a60-46c4-a7c4-4ededa1a1458)
-![99cc68b0-14c0-40eb-bae2-9cb575a6d7e0](https://github.com/user-attachments/assets/d96e4ef8-ec29-46da-a9ae-40007eab5afa)
-
 ## Translator App
 
 🌍 Break language barriers with our versatile Translator app! Designed to make communication easier and more intuitive, this app offers a suite of powerful features to cater to all your translation needs. Here’s what makes our Translator app stand out:
