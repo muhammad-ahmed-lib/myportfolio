@@ -1,7 +1,8 @@
 # Muhammad Ahmed | Android Developer
-👋 Hello! I'm Muhammad Ahmed, a passionate Android developer with over 2 years of experience. I excel at creating dynamic, high-performance mobile applications 
-that offer exceptional user experiences.
-My expertise lies in combining clean, modern design with cutting-edge technology to bring innovative ideas to life.
+👋 Hello! I'm Muhammad Ahmed
+📱 Mobile App Engineer | 4 Years of Experience
+
+I specialize in creating fast, smooth, and user-friendly mobile applications that people love to use. With 4 years of hands-on experience, I bring ideas to life using modern technologies and clean design.
 
 ## 🔧 Skills & Expertise
 
@@ -68,6 +69,90 @@ In-App Purchases: Play Billing Library
 Version Control: Git, GitHub
 
 Android Jetpack Components: LiveData, Navigation, ViewModel
+
+## 🛠 Flutter Development
+Dart & Flutter Framework: Building high-performance, cross-platform applications with clean, maintainable code and beautiful, responsive UIs that work seamlessly on both iOS and Android.
+
+### 🎯 State Management
+BLoC Pattern & GetX: Implementing robust state management solutions for complex applications, ensuring predictable state changes and excellent performance.
+
+### 🎨 UI/UX Development
+Material Design & Cupertino Widgets: Creating stunning, platform-adaptive interfaces that provide native-like experiences on both mobile platforms.
+
+### 🏗 Architecture Patterns
+MVVM & Clean Architecture: Designing scalable, testable, and maintainable applications with clear separation of concerns and business logic.
+
+### 🌐 Backend Integration
+REST API Integration: Using Dio and HTTP packages for efficient network calls, API consumption, and seamless data synchronization.
+
+### 🔥 Firebase Services
+Firebase Integration: Leveraging Firebase Authentication, Cloud Firestore, Realtime Database, Cloud Functions, and Cloud Storage for powerful backend capabilities.
+
+### 📱 Push Notifications
+Firebase Cloud Messaging: Implementing reliable push notification systems with custom handling and deep linking capabilities.
+
+### 🛠 Package Development
+## 📦 Package Author - Log Debugger:
+Creator of log_debugger package - A powerful logging and debugging tool that simplifies development workflow with enhanced log visibility and debugging capabilities.
+
+### 💰 Monetization
+Google AdMob & In-App Purchases: Integrating ads and purchase flows to generate revenue while maintaining optimal user experience.
+
+### 🗄 Local Storage
+SQLite, Hive, SharedPreferences: Implementing efficient local data persistence solutions for offline capabilities and fast data access.
+
+### 🔄 Background Processing
+Workmanager & Background Services: Handling background tasks efficiently for data synchronization, notifications, and scheduled operations.
+
+### 📊 Analytics & Crash Reporting
+Firebase Analytics & Crashlytics: Tracking user behavior and monitoring app stability with comprehensive analytics and crash reporting.
+
+### 🔗 Dependency Management
+GetIt & Provider: Implementing dependency injection for better code organization, testability, and maintainability.
+
+### 🎭 Animation & Motion
+Custom Animations & Page Transitions: Creating smooth, engaging animations and transitions that enhance user experience.
+
+### 📱 Platform-Specific Features
+Method Channels & Platform Channels: Accessing native device features and APIs through platform-specific implementations.
+
+### 🛠 Tools & Technologies
+Languages: Dart
+Framework: Flutter SDK
+State Management: BLoC, GetX, Provider
+Architecture: MVVM, Clean Architecture
+Networking: Dio, HTTP, REST API
+Database: Firebase Firestore, SQLite, Hive
+Authentication: Firebase Auth
+Notifications: Firebase Cloud Messaging
+Storage: Firebase Storage, SharedPreferences
+Monitoring: Firebase Analytics, Crashlytics
+Dependency Injection: GetIt, Provider
+Version Control: Git, GitHub
+Package Author: log_debugger (Published Pub Dev Package)
+
+### 🚀 Published Package Author
+
+### **log_debugger** 📦  
+*A powerful debugging package I created to simplify Flutter development*
+
+### 📋 Package Features:
+- **🛠 Enhanced Debug Logging** - Advanced logging capabilities with multiple log levels
+- **🎨 Custom Formatting** - Flexible log formatting options for better readability
+- **🌐 Network Monitoring** - Built-in network request and response logging
+- **⚡ Easy Integration** - Simple setup with minimal configuration required
+- **🚀 Production Ready** - Optimized for both development and production environments
+
+### 💡 Why I Built This Package:
+I developed **log_debugger** to address the need for a comprehensive logging solution in my Flutter projects. As a developer, I wanted a tool that could:
+- Streamline my debugging workflow
+- Provide clear, organized logs during development
+- Handle network calls visibility
+- Maintain performance in production builds
+
+This custom package reflects my commitment to creating practical solutions that enhance development efficiency and code quality across all my Flutter applications.
+
+*"Building tools that make development better - one package at a time"* 🛠️
 
 ## 🌟 Let’s Connect!
 
