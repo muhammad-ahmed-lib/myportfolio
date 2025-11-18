@@ -210,8 +210,9 @@ Built with Flutter for a seamless, consistent experience across both Android and
 ### 🔒 Privacy First
 Your safety and privacy are our priority. Robust security measures and privacy controls ensure you have a safe and comfortable experience.
 
-![Uploading dc5539e8-b082-4b6a-8ebe-19e485fec11c.jpg…]()
 ![3b23547c-f1ed-4cac-b827-3a3c32134a33](https://github.com/user-attachments/assets/b1eee156-a189-40b2-af38-3d71e6b02e5b)
+![dc5539e8-b082-4b6a-8ebe-19e485fec11c](https://github.com/user-attachments/assets/ee06e938-1e5e-46ed-8c5e-8d758ba6d9b0)
+
 
 
 ## 4G: Network Master
