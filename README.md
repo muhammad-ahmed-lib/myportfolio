@@ -81,6 +81,39 @@ Let’s build something amazing together!
 
 # 📂 My Projects
 
+## 4G: Network Master
+### ⚡ Your Ultimate Mobile Data Companion. Test, Analyze, and Master Your Connection!
+
+Unlock the full potential of your mobile network with 4G: Network Master, the all-in-one toolkit designed to give you complete control and insight over your cellular connection. Built with a modern, sleek interface using Jetpack Compose, this app provides everything you need to understand and optimize your signal and data usage.
+
+Here’s what makes it stand out:
+
+✨ Key Features
+### 📶 Real-Time Signal Strength
+See your exact network signal (in dBm) with a live, visual graph. Identify signal dead zones and find the best spots for a strong connection in real-time.
+
+### 🚀 Speed Test Master
+Perform quick and accurate speed tests to check your Download & Upload speeds and Ping latency. Get detailed results and compare them with previous tests.
+
+### 📱 SIM & Network Info
+Get a complete breakdown of your device's connection. View detailed information like SIM Operator, Network Type (4G/LTE/5G), IMEI number, IP Address, and Country Code—all in one place.
+
+### 📊 Smart Data Usage Tracker
+Monitor your mobile data consumption effortlessly. Set custom usage limits and get alerts before you exceed your data plan, helping you avoid extra charges.
+
+### 🔄 LTE/5G Toggle Switch
+Take full control of your network mode with a simple toggle. Easily switch between LTE/5G/4G/3G preferences to save battery or maximize speed based on your needs.
+
+### 📈 History & Trends
+View your past speed test results and signal history with intuitive charts. Track your network's performance over time to spot patterns and issues.
+
+### 🎨 Modern & Lightweight
+Built with Jetpack Compose for a super-fast, smooth, and responsive experience that feels native on your Android device.
+![a08776de-625b-4b51-be47-054782b72571](https://github.com/user-attachments/assets/55ae64bf-c1c5-4a93-a15c-660d69c87122)
+![46b294b0-33b6-4418-986f-f24f5be1ac1d](https://github.com/user-attachments/assets/045401a8-0d64-4650-b7bc-45477d6a7000)
+![109dbfc5-f86f-49c5-9bc9-af7209112037](https://github.com/user-attachments/assets/836d1cee-5165-4771-b6b8-49acefcc77f4)
+
+
 ## GPS Camera Map
 ### 📍 Capture, Tag, and Relive Your World
 
