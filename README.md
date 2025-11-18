@@ -1,4 +1,4 @@
-![e6f3d7ea-7a05-40eb-9bb6-91719a168794](https://github.com/user-attachments/assets/0463c487-9c7c-4dd6-acc5-9ab4487e3f5e)# Muhammad Ahmed | Android Developer
+# Muhammad Ahmed | Android Developer
 👋 Hello! I'm Muhammad Ahmed, a passionate Android developer with over 2 years of experience. I excel at creating dynamic, high-performance mobile applications 
 that offer exceptional user experiences.
 My expertise lies in combining clean, modern design with cutting-edge technology to bring innovative ideas to life.
@@ -110,7 +110,7 @@ Personalize how your location data appears! Choose from various stylish template
 
 ### ⚡ Modern & Fast
 Built with Jetpack Compose for buttery-smooth performance and an intuitive Material Design interface that feels native to your Android device.
-
+![e6f3d7ea-7a05-40eb-9bb6-91719a168794](https://github.com/user-attachments/assets/0463c487-9c7c-4dd6-acc5-9ab4487e3f5e)
 
 ## Translator App
 
