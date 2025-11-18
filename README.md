@@ -139,15 +139,11 @@ Package Author: log_debugger (Published Pub Dev Package)
 ### 📋 Package Features:
 - **🛠 Enhanced Debug Logging** - Advanced logging capabilities with multiple log levels
 - **🎨 Custom Formatting** - Flexible log formatting options for better readability
-- **🌐 Network Monitoring** - Built-in network request and response logging
-- **⚡ Easy Integration** - Simple setup with minimal configuration required
 - **🚀 Production Ready** - Optimized for both development and production environments
 
 ### 💡 Why I Built This Package:
 I developed **log_debugger** to address the need for a comprehensive logging solution in my Flutter projects. As a developer, I wanted a tool that could:
-- Streamline my debugging workflow
 - Provide clear, organized logs during development
-- Handle network calls visibility
 - Maintain performance in production builds
 
 This custom package reflects my commitment to creating practical solutions that enhance development efficiency and code quality across all my Flutter applications.
