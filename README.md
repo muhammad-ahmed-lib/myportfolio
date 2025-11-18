@@ -81,6 +81,38 @@ Let’s build something amazing together!
 
 # 📂 My Projects
 
+## GPS Camera Map
+### 📍 Capture, Tag, and Relive Your World
+
+GPS Camera Map is the ultimate all-in-one app that transforms how you document your journeys. Seamlessly blending location data with media capture, this modern Android app lets you preserve memories with precise geographical context. Perfect for travelers, adventurers, and everyday explorers!
+
+✨ Key Features
+### 🎯 Custom Location Selection
+Pick any location on the map with precision! Choose from stylish templates to mark your current spot or any point of interest with custom pins and beautiful location tags.
+
+### 📸 Smart Photo Capture with GPS
+Capture photos with built-in GPS tagging! Automatically embed map data, coordinates, and location information directly onto your images using our elegant templates.
+
+### 🎥 Video Recording with Location
+Record videos with live location tracking! Our smart system geotags your videos while recording, preserving exactly where each moment was captured.
+
+### ✂️ Built-in Media Editor
+Edit photos and videos right within the app! Crop, filter, and enhance your media while adding custom location stamps, text, and map overlays.
+
+### 🗺️ Interactive Map View
+See all your geo-tagged media displayed on a beautiful interactive map. Filter by date, location, or media type to relive your memories visually.
+
+### 💾 Smart Organization
+Automatically organize your photos and videos by location, date, or custom collections. Never lose track of where and when you captured special moments.
+
+### 🎨 Customizable Templates
+Personalize how your location data appears! Choose from various stylish templates for your location pins, map overlays, and media stamps.
+
+### ⚡ Modern & Fast
+Built with Jetpack Compose for buttery-smooth performance and an intuitive Material Design interface that feels native to your Android device.
+
+
+
 ## Translator App
 
 🌍 Break language barriers with our versatile Translator app! Designed to make communication easier and more intuitive, this app offers a suite of powerful features to cater to all your translation needs. Here’s what makes our Translator app stand out:
